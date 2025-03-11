@@ -1,0 +1,9 @@
+
+public class chapter1_2 {
+
+	public static void main(String[] args) {
+		System.out.println("20222004 임민우");
+
+	}
+
+}
